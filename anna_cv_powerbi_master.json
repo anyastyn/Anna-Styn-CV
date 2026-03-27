@@ -1,0 +1,686 @@
+{
+  "Metadata": [
+    {
+      "cv_version": "2026-03-27",
+      "last_updated": "2026-03-27"
+    }
+  ],
+  "Individual": [
+    {
+      "individual_id": 1,
+      "full_name": "Anna Styn",
+      "headline": "Data Analyst | Power Platform | Automation & Service Delivery",
+      "date_of_birth": "",
+      "email": "anyashtyn@gmail.com",
+      "github": "https://github.com/anyastyn/",
+      "linkedin": "https://www.linkedin.com/in/anna-styn-33a05612a",
+      "location": "Brno, Czech Republic"
+    }
+  ],
+  "Profile": [
+    {
+      "profile_id": 1,
+      "individual_id": 1,
+      "profile_order": 1,
+      "profile_text": "Data Analyst and automation specialist with 24 years of IT experience, combining a strong foundation in software engineering, service delivery, and business operations with modern data and automation solutions."
+    },
+    {
+      "profile_id": 2,
+      "individual_id": 1,
+      "profile_order": 2,
+      "profile_text": "Over the past 4+ years, focused on delivering data-driven reporting and workflow automation using Microsoft Power Platform (Power BI, Power Automate, Power Apps, Power Query, DAX). Experience in transforming manual and semi-automated processes into scalable, standardized solutions—migrating 24+ Excel workbooks into Power BI reports used by 180+ users and improving SLA tracking across 40+ services."
+    },
+    {
+      "profile_id": 3,
+      "individual_id": 1,
+      "profile_order": 3,
+      "profile_text": "Focused on working with data, improving reporting, and building automated solutions that make processes simpler and more reliable."
+    }
+  ],
+  "Companies": [
+    {
+      "company_id": 1,
+      "company_name": "Kyndryl Client Center",
+      "location": "Czech Republic",
+      "industry": "IT Services"
+    },
+    {
+      "company_id": 2,
+      "company_name": "IBM GSDC",
+      "location": "Czech Republic",
+      "industry": "IT Services"
+    },
+    {
+      "company_id": 3,
+      "company_name": "Lufthansa Service Center",
+      "location": "Brno, Czech Republic",
+      "industry": "Airline / Customer Service"
+    },
+    {
+      "company_id": 4,
+      "company_name": "Zaporizhzha State Engineering Academy",
+      "location": "Ukraine",
+      "industry": "Education"
+    }
+  ],
+  "Positions": [
+    {
+      "position_id": 1,
+      "company_id": 1,
+      "position_title": "Lead, Portfolio Management",
+      "start_date": "2025-05-01",
+      "end_date": null,
+      "is_current": true,
+      "display_order": 1
+    },
+    {
+      "position_id": 2,
+      "company_id": 1,
+      "position_title": "Lead, Service Coordination",
+      "start_date": "2021-10-13",
+      "end_date": "2025-05-01",
+      "is_current": false,
+      "display_order": 2
+    },
+    {
+      "position_id": 3,
+      "company_id": 2,
+      "position_title": "Service Delivery Manager / NBVL",
+      "start_date": "2014-03-01",
+      "end_date": "2021-10-13",
+      "is_current": false,
+      "display_order": 3
+    },
+    {
+      "position_id": 4,
+      "company_id": 2,
+      "position_title": "New Business Validation Lead (NBVL)",
+      "start_date": "2013-06-01",
+      "end_date": "2014-03-01",
+      "is_current": false,
+      "display_order": 4
+    },
+    {
+      "position_id": 5,
+      "company_id": 2,
+      "position_title": "Account Delivery Leader",
+      "start_date": "2012-01-01",
+      "end_date": "2013-06-01",
+      "is_current": false,
+      "display_order": 5
+    },
+    {
+      "position_id": 6,
+      "company_id": 2,
+      "position_title": "Team Leader",
+      "start_date": "2011-03-01",
+      "end_date": "2012-01-01",
+      "is_current": false,
+      "display_order": 6
+    },
+    {
+      "position_id": 7,
+      "company_id": 2,
+      "position_title": "Customer Service Representative (Focal Point)",
+      "start_date": "2009-03-01",
+      "end_date": "2011-03-01",
+      "is_current": false,
+      "display_order": 7
+    },
+    {
+      "position_id": 8,
+      "company_id": 3,
+      "position_title": "Customer Consultant Representative",
+      "start_date": "2008-01-08",
+      "end_date": "2009-02-28",
+      "is_current": false,
+      "display_order": 8
+    },
+    {
+      "position_id": 9,
+      "company_id": 4,
+      "position_title": "Senior Lecturer",
+      "start_date": "2007-09-01",
+      "end_date": "2007-12-31",
+      "is_current": false,
+      "display_order": 9
+    },
+    {
+      "position_id": 10,
+      "company_id": 4,
+      "position_title": "Assistant Lecturer",
+      "start_date": "2000-02-01",
+      "end_date": "2007-09-01",
+      "is_current": false,
+      "display_order": 10
+    }
+  ],
+  "Roles": [
+    {
+      "role_id": 1,
+      "position_id": 1,
+      "role_text": "Worked on design and implementation of reporting automation solutions",
+      "role_order": 1
+    },
+    {
+      "role_id": 2,
+      "position_id": 1,
+      "role_text": "Integrated data from ServiceNow, Veeam, TSM, and SRM into Power BI",
+      "role_order": 2
+    },
+    {
+      "role_id": 3,
+      "position_id": 1,
+      "role_text": "Automated data extraction, refresh, and distribution processes",
+      "role_order": 3
+    },
+    {
+      "role_id": 4,
+      "position_id": 1,
+      "role_text": "Built customer approval workflows using Power Apps and Power Automate",
+      "role_order": 4
+    },
+    {
+      "role_id": 5,
+      "position_id": 1,
+      "role_text": "Improved reporting processes and data visibility",
+      "role_order": 5
+    },
+    {
+      "role_id": 6,
+      "position_id": 2,
+      "role_text": "Delivered regular reporting across multiple service areas",
+      "role_order": 1
+    },
+    {
+      "role_id": 7,
+      "position_id": 2,
+      "role_text": "Automated BAU reporting using Power Platform tools",
+      "role_order": 2
+    },
+    {
+      "role_id": 8,
+      "position_id": 2,
+      "role_text": "Worked on migration of 24 Excel workbooks into 6 Power BI reports",
+      "role_order": 3
+    },
+    {
+      "role_id": 9,
+      "position_id": 2,
+      "role_text": "Supported reporting solutions used by 180+ subscribed users",
+      "role_order": 4
+    },
+    {
+      "role_id": 10,
+      "position_id": 2,
+      "role_text": "Created dashboards and maintained ServiceNow reporting",
+      "role_order": 5
+    },
+    {
+      "role_id": 11,
+      "position_id": 2,
+      "role_text": "Prepared documentation (RDDs, work instructions)",
+      "role_order": 6
+    },
+    {
+      "role_id": 12,
+      "position_id": 2,
+      "role_text": "Recognized in Weekly Executive communication for Microsoft 365-based reporting transformation, integrating Teams, SharePoint, Power Automate, and Power BI",
+      "role_order": 7
+    },
+    {
+      "role_id": 13,
+      "position_id": 3,
+      "role_text": "Managed daily service desk operations in an enterprise environment",
+      "role_order": 1
+    },
+    {
+      "role_id": 14,
+      "position_id": 3,
+      "role_text": "Monitored service performance and identified areas for improvement",
+      "role_order": 2
+    },
+    {
+      "role_id": 15,
+      "position_id": 3,
+      "role_text": "Resolved escalations and supported handling of critical issues",
+      "role_order": 3
+    },
+    {
+      "role_id": 16,
+      "position_id": 4,
+      "role_text": "Reviewed new service requests and checked readiness for support",
+      "role_order": 1
+    },
+    {
+      "role_id": 17,
+      "position_id": 4,
+      "role_text": "Verified contracts and service conditions",
+      "role_order": 2
+    },
+    {
+      "role_id": 18,
+      "position_id": 4,
+      "role_text": "Supported onboarding of new services into the service desk",
+      "role_order": 3
+    },
+    {
+      "role_id": 19,
+      "position_id": 5,
+      "role_text": "Built and applied management systems for operational control and performance tracking",
+      "role_order": 1
+    },
+    {
+      "role_id": 20,
+      "position_id": 6,
+      "role_text": "Led a team and supported team members",
+      "role_order": 1
+    },
+    {
+      "role_id": 21,
+      "position_id": 6,
+      "role_text": "Handled escalations requiring higher-level support",
+      "role_order": 2
+    },
+    {
+      "role_id": 22,
+      "position_id": 7,
+      "role_text": "Resolved IT service issues across infrastructure and user environments",
+      "role_order": 1
+    },
+    {
+      "role_id": 23,
+      "position_id": 8,
+      "role_text": "Supported airline systems and customer service operations",
+      "role_order": 1
+    },
+    {
+      "role_id": 24,
+      "position_id": 9,
+      "role_text": "Delivered training in economic modeling, IT, and information systems",
+      "role_order": 1
+    },
+    {
+      "role_id": 25,
+      "position_id": 9,
+      "role_text": "Published research in 4 scientific journals",
+      "role_order": 2
+    },
+    {
+      "role_id": 26,
+      "position_id": 9,
+      "role_text": "Developed analytical and data-driven thinking foundation",
+      "role_order": 3
+    },
+    {
+      "role_id": 27,
+      "position_id": 10,
+      "role_text": "Delivered training in economic modeling, IT, and information systems",
+      "role_order": 1
+    },
+    {
+      "role_id": 28,
+      "position_id": 10,
+      "role_text": "Published research in 4 scientific journals",
+      "role_order": 2
+    },
+    {
+      "role_id": 29,
+      "position_id": 10,
+      "role_text": "Developed analytical and data-driven thinking foundation",
+      "role_order": 3
+    }
+  ],
+  "CertificationsTrainings": [
+    {
+      "certification_id": 1,
+      "certification_name": "Microsoft Power BI Data Analyst Associate (PL-300)",
+      "provider": "Microsoft",
+      "category": "Certification",
+      "sort_order": 1
+    },
+    {
+      "certification_id": 2,
+      "certification_name": "Power Platform Fundamentals (PL-900)",
+      "provider": "Microsoft",
+      "category": "Certification",
+      "sort_order": 2
+    },
+    {
+      "certification_id": 3,
+      "certification_name": "Azure AI Fundamentals (AI-900)",
+      "provider": "Microsoft",
+      "category": "Certification",
+      "sort_order": 3
+    },
+    {
+      "certification_id": 4,
+      "certification_name": "Azure Data Fundamentals (DP-900)",
+      "provider": "Microsoft",
+      "category": "Certification",
+      "sort_order": 4
+    },
+    {
+      "certification_id": 5,
+      "certification_name": "ITIL v3",
+      "provider": "AXELOS / ITIL",
+      "category": "Certification",
+      "sort_order": 5
+    },
+    {
+      "certification_id": 6,
+      "certification_name": "Kyndryl AI Academy (Agentic AI)",
+      "provider": "Kyndryl",
+      "category": "Training",
+      "sort_order": 6
+    }
+  ],
+  "Languages": [
+    {
+      "language_id": 1,
+      "language_name": "English",
+      "proficiency": "",
+      "sort_order": 1
+    },
+    {
+      "language_id": 2,
+      "language_name": "Czech",
+      "proficiency": "",
+      "sort_order": 2
+    },
+    {
+      "language_id": 3,
+      "language_name": "Ukrainian",
+      "proficiency": "",
+      "sort_order": 3
+    }
+  ],
+  "Skills": [
+    {
+      "skill_id": 1,
+      "skill_name": "Power BI",
+      "skill_category": "Data & Analytics",
+      "display_order": 1,
+      "icon_name": "chart-bar",
+      "is_featured": true,
+      "skill_level": 5
+    },
+    {
+      "skill_id": 2,
+      "skill_name": "DAX",
+      "skill_category": "Data & Analytics",
+      "display_order": 2,
+      "icon_name": "function",
+      "is_featured": true,
+      "skill_level": 5
+    },
+    {
+      "skill_id": 3,
+      "skill_name": "Power Query",
+      "skill_category": "Data & Analytics",
+      "display_order": 3,
+      "icon_name": "database",
+      "is_featured": true,
+      "skill_level": 5
+    },
+    {
+      "skill_id": 4,
+      "skill_name": "Data Modeling",
+      "skill_category": "Data & Analytics",
+      "display_order": 4,
+      "icon_name": "schema",
+      "is_featured": true,
+      "skill_level": 4
+    },
+    {
+      "skill_id": 5,
+      "skill_name": "Reporting Automation",
+      "skill_category": "Data & Analytics",
+      "display_order": 5,
+      "icon_name": "chart-network",
+      "is_featured": true,
+      "skill_level": 5
+    },
+    {
+      "skill_id": 6,
+      "skill_name": "Power Automate",
+      "skill_category": "Automation & Tools",
+      "display_order": 6,
+      "icon_name": "flow",
+      "is_featured": true,
+      "skill_level": 5
+    },
+    {
+      "skill_id": 7,
+      "skill_name": "Power Apps",
+      "skill_category": "Automation & Tools",
+      "display_order": 7,
+      "icon_name": "app-window",
+      "is_featured": true,
+      "skill_level": 4
+    },
+    {
+      "skill_id": 8,
+      "skill_name": "ServiceNow",
+      "skill_category": "Automation & Tools",
+      "display_order": 8,
+      "icon_name": "settings",
+      "is_featured": false,
+      "skill_level": 4
+    },
+    {
+      "skill_id": 9,
+      "skill_name": "MS Lists",
+      "skill_category": "Automation & Tools",
+      "display_order": 9,
+      "icon_name": "list",
+      "is_featured": false,
+      "skill_level": 4
+    },
+    {
+      "skill_id": 10,
+      "skill_name": "Teams",
+      "skill_category": "Microsoft Ecosystem",
+      "display_order": 10,
+      "icon_name": "users",
+      "is_featured": false,
+      "skill_level": 4
+    },
+    {
+      "skill_id": 11,
+      "skill_name": "SharePoint",
+      "skill_category": "Microsoft Ecosystem",
+      "display_order": 11,
+      "icon_name": "share-2",
+      "is_featured": false,
+      "skill_level": 4
+    },
+    {
+      "skill_id": 12,
+      "skill_name": "Excel",
+      "skill_category": "Microsoft Ecosystem",
+      "display_order": 12,
+      "icon_name": "sheet",
+      "is_featured": true,
+      "skill_level": 5
+    },
+    {
+      "skill_id": 13,
+      "skill_name": "Office 365",
+      "skill_category": "Microsoft Ecosystem",
+      "display_order": 13,
+      "icon_name": "briefcase",
+      "is_featured": false,
+      "skill_level": 4
+    },
+    {
+      "skill_id": 14,
+      "skill_name": "Copilot",
+      "skill_category": "Microsoft Ecosystem",
+      "display_order": 14,
+      "icon_name": "sparkles",
+      "is_featured": false,
+      "skill_level": 3
+    },
+    {
+      "skill_id": 15,
+      "skill_name": "Prompt Engineering",
+      "skill_category": "AI & Development (Foundations)",
+      "display_order": 15,
+      "icon_name": "message-circle",
+      "is_featured": true,
+      "skill_level": 4
+    },
+    {
+      "skill_id": 16,
+      "skill_name": "Retrieval-Augmented Generation (RAG)",
+      "skill_category": "AI & Development (Foundations)",
+      "display_order": 16,
+      "icon_name": "brain",
+      "is_featured": true,
+      "skill_level": 3
+    },
+    {
+      "skill_id": 17,
+      "skill_name": "AI-assisted workflows",
+      "skill_category": "AI & Development (Foundations)",
+      "display_order": 17,
+      "icon_name": "bot",
+      "is_featured": true,
+      "skill_level": 4
+    },
+    {
+      "skill_id": 18,
+      "skill_name": "GitHub",
+      "skill_category": "AI & Development (Foundations)",
+      "display_order": 18,
+      "icon_name": "github",
+      "is_featured": true,
+      "skill_level": 4
+    },
+    {
+      "skill_id": 19,
+      "skill_name": "VS Code",
+      "skill_category": "AI & Development (Foundations)",
+      "display_order": 19,
+      "icon_name": "code",
+      "is_featured": true,
+      "skill_level": 4
+    },
+    {
+      "skill_id": 20,
+      "skill_name": "VBA",
+      "skill_category": "Technical Foundations",
+      "display_order": 20,
+      "icon_name": "file-code",
+      "is_featured": false,
+      "skill_level": 4
+    },
+    {
+      "skill_id": 21,
+      "skill_name": "HTML",
+      "skill_category": "Technical Foundations",
+      "display_order": 21,
+      "icon_name": "globe",
+      "is_featured": false,
+      "skill_level": 3
+    },
+    {
+      "skill_id": 22,
+      "skill_name": "Python (basic)",
+      "skill_category": "Technical Foundations",
+      "display_order": 22,
+      "icon_name": "terminal",
+      "is_featured": false,
+      "skill_level": 2
+    },
+    {
+      "skill_id": 23,
+      "skill_name": "Process Automation",
+      "skill_category": "Professional Strengths",
+      "display_order": 23,
+      "icon_name": "zap",
+      "is_featured": true,
+      "skill_level": 5
+    },
+    {
+      "skill_id": 24,
+      "skill_name": "Data Modeling",
+      "skill_category": "Professional Strengths",
+      "display_order": 24,
+      "icon_name": "network",
+      "is_featured": true,
+      "skill_level": 4
+    },
+    {
+      "skill_id": 25,
+      "skill_name": "Reporting Solutions",
+      "skill_category": "Professional Strengths",
+      "display_order": 25,
+      "icon_name": "layout-dashboard",
+      "is_featured": true,
+      "skill_level": 5
+    },
+    {
+      "skill_id": 26,
+      "skill_name": "Analytical Thinking",
+      "skill_category": "Professional Strengths",
+      "display_order": 26,
+      "icon_name": "search",
+      "is_featured": true,
+      "skill_level": 5
+    }
+  ],
+  "KeyAchievements": [
+    {
+      "achievement_id": 1,
+      "achievement_text": "Worked on migration of 24 Excel-based reporting solutions into 6 fully automated Power BI reports",
+      "sort_order": 1
+    },
+    {
+      "achievement_id": 2,
+      "achievement_text": "Helped deliver reporting solutions used by 180+ business users",
+      "sort_order": 2
+    },
+    {
+      "achievement_id": 3,
+      "achievement_text": "Worked on automation workflows integrating ServiceNow, Power BI, and Microsoft 365",
+      "sort_order": 3
+    },
+    {
+      "achievement_id": 4,
+      "achievement_text": "Built approval workflows improving governance and transparency of reporting processes",
+      "sort_order": 4
+    },
+    {
+      "achievement_id": 5,
+      "achievement_text": "Helped reduce manual effort through reporting and workflow automation",
+      "sort_order": 5
+    },
+    {
+      "achievement_id": 6,
+      "achievement_text": "Recognized in executive communication for delivering standardized Power BI reporting using Microsoft 365 tools",
+      "sort_order": 6
+    }
+  ],
+  "Education": [
+    {
+      "education_id": 1,
+      "institution": "Zaporizhzha State Engineering Academy",
+      "qualification": "Engineer – Programmer",
+      "field_of_study": "",
+      "start_date": "1994-01-01",
+      "end_date": "1999-12-31",
+      "sort_order": 1
+    },
+    {
+      "education_id": 2,
+      "institution": "Zaporizhzha State Engineering Academy",
+      "qualification": "Postgraduate Studies",
+      "field_of_study": "Economic & Mathematical Modeling",
+      "start_date": "1999-01-01",
+      "end_date": "2002-12-31",
+      "sort_order": 2
+    }
+  ]
+}
